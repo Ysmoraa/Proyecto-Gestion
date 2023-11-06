@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://img.freepik.com/fotos-premium/aeropuerto-pixel-art-fondo-avion-estilo-retro-juegos-ai-8-bits_985124-1799.jpg?w=2000');
+    background-size: cover;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#menu {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #2980b9;
+}
+#Titl{
+    font-size: 40px;
+}
